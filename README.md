@@ -1,2 +1,2 @@
 # form-wave-input
- animated login screen
+ responsive animated login screen
